@@ -1,0 +1,15 @@
+:root {
+    font-family: "Tahoma", sans-serif;
+    font-size: 16px;
+  
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+}
+
+#app {
+    width: 360px;
+    margin: 0 auto;
+    padding: 0;
+}
